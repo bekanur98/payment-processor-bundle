@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App;
+namespace PaymentProcessorBundle;
 
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
